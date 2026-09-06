@@ -1,0 +1,12 @@
+{
+  "name": "genpark-hyper-personalized-cold-outreach-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Generates 3-touch hyper-personalized B2B cold email cadences and spam-free subject lines tailored to prospect firmographics.",
+  "category": "Sales Intelligence & Lead Enrichment",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-hyper-personalized-cold-outreach-synthesizer-skill",
+  "verified": true,
+  "stars": 8
+}
